@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1029861782381",
+    "project_id": "animal-fit",
+    "storage_bucket": "animal-fit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029861782381:android:5be1e5f06bec430c176064",
+        "android_client_info": {
+          "package_name": "com.example.stayfit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1029861782381-m7hvm6smgtitq0d9j75ul06o081r2slb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.stayfit",
+            "certificate_hash": "83eb9f87d61002d1a46f026da89d5f4d8f2363a8"
+          }
+        },
+        {
+          "client_id": "1029861782381-9q4to34dq479ur27nsin25qpgrnm17gi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI9rcgY_ISWuIkbmqtyAILlAu-_muLQyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1029861782381-9q4to34dq479ur27nsin25qpgrnm17gi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
