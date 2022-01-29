@@ -1,16 +1,15 @@
 # stayfit
 
-A new Flutter project.
+A fitness app that tracks user progress towards weight-lifting or powerlifting goals.
+plots graphs, tracks progress and mentions about their workout plan.
+planning to integrate a strength gain indicator with further research and personal expririece in the field.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+##to-do task
+1. adding plot graphs
+2. storing data of a particular user in firebase and take that data in plotting graphs
+3. workout plan and excersice samples to be added
+4. work towards body inch tracker, and few more accesory requirment additions.
+5. personal note: "imagine it, believe it, and make it ... u got this :)"
